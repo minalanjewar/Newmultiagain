@@ -6,7 +6,7 @@ import util.Util;
 public class App {
 
     public String greet(String name) {
-        return Util.join("Hello ", name);
+        return Util.join("Helloo ", name);
     }
 
     public boolean store(String name) {
